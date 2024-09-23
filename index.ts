@@ -1,1 +1,2 @@
-console.log("Tes 1 2 3")
+import { day1 } from './exercise/day1/day1';
+day1();
